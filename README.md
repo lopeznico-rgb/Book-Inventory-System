@@ -1,5 +1,6 @@
 # C# Book Inventory Monetoring System
 Project
+Before firing the Downloaded Zip 
 
 Fix Sql Installation problem:
 
