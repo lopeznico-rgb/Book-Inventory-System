@@ -1,2 +1,2 @@
-# Ets
+# Book Inventory Monetoring System
 Project
